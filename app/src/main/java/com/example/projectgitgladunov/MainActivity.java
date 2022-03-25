@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //сделали первый коммент
+        //Сделали четвёртый коммент
     }
 }
